@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  I build things at the intersection of AI/ML, DSA, and full-stack engineering. I enjoy turning messy problems into clean logic and scalable code.<br><br>🛠 Tech I Work With<br><br>Languages: Python, C, JavaScript<br><br>Stack: MERN (MongoDB, Express, React, Node.js)<br><br>Core Interests:<br><br>Data Structures & Algorithms<br><br>Applied AI / ML<br><br>Backend-heavy full-stack systems<br><br>🤖 Fun Facts<br><br>I like understanding how models work, not just calling APIs<br><br>I enjoy optimizing logic more than polishing UI<br><br>I prefer boring, reliable code over clever but fragile hacks<br><br>Debugging feels more satisfying than finishing tutorials<br><br>Currently focused on building real, job-ready projects and sharpening problem-solving skills.
 
 
